@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="swap">Swap</string>
+    <string name="convert">Convert</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="result">Result</string>
+    <string name="base_amount">Base Amount</string>
+
+    <string name="api_url">https://api.apilayer.com/exchangerates_data/</string>
+    <string name="api_key">your api key here!!</string>
+</resources>
